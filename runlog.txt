@@ -1,0 +1,848 @@
+PS D:\Pycharm_Project\Compress> & C:/Users/86135/Anaconda3/envs/micro/python.exe d:/Pycharm_Project/Compress/jpeg_ls_usefor_batchtest.py
+picture 0 start
+slice[0][0] is 225
+now slice is 225
+bytenum is 3866063
+time cost is 60.877
+slice[0][0] is 253
+now slice is 253
+bytenum is 3892998
+time cost is 60.239
+slice[0][0] is 255
+now slice is 255
+bytenum is 3878817
+time cost is 57.524
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.779
+picture 2159 done,compress is 11640103
+picture 1 start
+slice[0][0] is 60
+now slice is 60
+bytenum is 4002257
+time cost is 61.415
+slice[0][0] is 65
+now slice is 65
+bytenum is 3793531
+time cost is 58.314
+slice[0][0] is 64
+now slice is 64
+bytenum is 4007847
+time cost is 59.532
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.796
+picture 2159 done,compress is 11805861
+picture 2 start
+slice[0][0] is 20
+now slice is 20
+bytenum is 3882569
+time cost is 60.404
+slice[0][0] is 22
+now slice is 22
+bytenum is 3873608
+time cost is 61.499
+slice[0][0] is 22
+now slice is 22
+bytenum is 3946246
+time cost is 59.545
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.759
+picture 2159 done,compress is 11704648
+picture 3 start
+slice[0][0] is 23
+now slice is 23
+bytenum is 3982468
+time cost is 61.047
+slice[0][0] is 26
+now slice is 26
+bytenum is 3913975
+time cost is 60.484
+slice[0][0] is 27
+now slice is 27
+bytenum is 4193519
+time cost is 62.943
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.773
+picture 2159 done,compress is 12092188
+picture 4 start
+slice[0][0] is 4
+now slice is 4
+bytenum is 3576242
+time cost is 57.221
+slice[0][0] is 5
+now slice is 5
+bytenum is 3538533
+time cost is 56.675
+slice[0][0] is 7
+now slice is 7
+bytenum is 3517185
+time cost is 54.750
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.768
+picture 2159 done,compress is 10634185
+picture 5 start
+slice[0][0] is 7
+now slice is 7
+bytenum is 3748235
+time cost is 58.544
+slice[0][0] is 9
+now slice is 9
+bytenum is 3718699
+time cost is 58.531
+slice[0][0] is 11
+now slice is 11
+bytenum is 3435143
+time cost is 51.669
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.915
+picture 2159 done,compress is 10904303
+picture 6 start
+slice[0][0] is 75
+now slice is 75
+bytenum is 3582877
+time cost is 56.922
+slice[0][0] is 84
+now slice is 84
+bytenum is 3524872
+time cost is 56.059
+slice[0][0] is 84
+now slice is 84
+bytenum is 3397890
+time cost is 51.694
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.736
+picture 2159 done,compress is 10507864
+picture 7 start
+slice[0][0] is 131
+now slice is 131
+bytenum is 3676157
+time cost is 58.003
+slice[0][0] is 116
+now slice is 116
+bytenum is 3667452
+time cost is 57.841
+slice[0][0] is 114
+now slice is 114
+bytenum is 3424900
+time cost is 51.012
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.815
+picture 2159 done,compress is 10770735
+picture 8 start
+slice[0][0] is 67
+now slice is 67
+bytenum is 3432650
+time cost is 54.455
+slice[0][0] is 59
+now slice is 59
+bytenum is 3364343
+time cost is 53.178
+slice[0][0] is 52
+now slice is 52
+bytenum is 3389023
+time cost is 52.423
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.795
+picture 2159 done,compress is 10188242
+picture 9 start
+slice[0][0] is 53
+now slice is 53
+bytenum is 3718025
+time cost is 58.410
+slice[0][0] is 69
+now slice is 69
+bytenum is 3664830
+time cost is 57.366
+slice[0][0] is 88
+now slice is 88
+bytenum is 3659076
+time cost is 55.323
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.573
+picture 2159 done,compress is 11044157
+picture 10 start
+slice[0][0] is 52
+now slice is 52
+bytenum is 3837982
+time cost is 59.751
+slice[0][0] is 55
+now slice is 55
+bytenum is 3723259
+time cost is 57.342
+slice[0][0] is 56
+now slice is 56
+bytenum is 3799229
+time cost is 56.754
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.700
+picture 2159 done,compress is 11362696
+picture 11 start
+slice[0][0] is 16
+now slice is 16
+bytenum is 3408524
+time cost is 54.558
+slice[0][0] is 17
+now slice is 17
+bytenum is 3249885
+time cost is 52.910
+slice[0][0] is 12
+now slice is 12
+bytenum is 3269775
+time cost is 52.834
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.741
+picture 2159 done,compress is 9930410
+picture 12 start
+slice[0][0] is 127
+now slice is 127
+bytenum is 2656341
+time cost is 44.549
+slice[0][0] is 102
+now slice is 102
+bytenum is 2617507
+time cost is 42.883
+slice[0][0] is 88
+now slice is 88
+bytenum is 2454369
+time cost is 39.877
+slice[0][0] is 255
+now slice is 255
+bytenum is 2224
+time cost is 6.847
+picture 2159 done,compress is 7730441
+picture 13 start
+slice[0][0] is 46
+now slice is 46
+bytenum is 2671483
+time cost is 45.638
+slice[0][0] is 42
+now slice is 42
+bytenum is 2420982
+time cost is 41.879
+slice[0][0] is 42
+now slice is 42
+bytenum is 2178833
+time cost is 37.781
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.788
+picture 2159 done,compress is 7273523
+picture 14 start
+slice[0][0] is 22
+now slice is 22
+bytenum is 2470285
+time cost is 43.158
+slice[0][0] is 13
+now slice is 13
+bytenum is 2550391
+time cost is 43.524
+slice[0][0] is 13
+now slice is 13
+bytenum is 2696854
+time cost is 45.360
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.850
+picture 2159 done,compress is 7719755
+picture 15 start
+slice[0][0] is 30
+now slice is 30
+bytenum is 3195011
+time cost is 52.288
+slice[0][0] is 35
+now slice is 35
+bytenum is 3293386
+time cost is 52.852
+slice[0][0] is 31
+now slice is 31
+bytenum is 2840966
+time cost is 48.854
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.761
+picture 2159 done,compress is 9331588
+picture 16 start
+slice[0][0] is 104
+now slice is 104
+bytenum is 3504168
+time cost is 53.238
+slice[0][0] is 135
+now slice is 135
+bytenum is 3698745
+time cost is 54.666
+slice[0][0] is 166
+now slice is 166
+bytenum is 3728040
+time cost is 55.432
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.859
+picture 2159 done,compress is 10933179
+picture 17 start
+slice[0][0] is 126
+now slice is 126
+bytenum is 3095264
+time cost is 46.594
+slice[0][0] is 135
+now slice is 135
+bytenum is 3049693
+time cost is 45.983
+slice[0][0] is 152
+now slice is 152
+bytenum is 3247275
+time cost is 47.460
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.816
+picture 2159 done,compress is 9394458
+picture 18 start
+slice[0][0] is 105
+now slice is 105
+bytenum is 3225059
+time cost is 46.602
+slice[0][0] is 129
+now slice is 129
+bytenum is 3160374
+time cost is 45.787
+slice[0][0] is 153
+now slice is 153
+bytenum is 3174424
+time cost is 45.900
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.857
+picture 2159 done,compress is 9562083
+picture 19 start
+slice[0][0] is 21
+now slice is 21
+bytenum is 3680737
+time cost is 54.533
+slice[0][0] is 22
+now slice is 22
+bytenum is 3634224
+time cost is 53.906
+slice[0][0] is 6
+now slice is 6
+bytenum is 3631003
+time cost is 53.894
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.815
+picture 2159 done,compress is 10948189
+picture 20 start
+slice[0][0] is 76
+now slice is 76
+bytenum is 3894261
+time cost is 56.114
+slice[0][0] is 106
+now slice is 106
+bytenum is 3829032
+time cost is 55.179
+slice[0][0] is 132
+now slice is 132
+bytenum is 3838807
+time cost is 55.479
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.806
+picture 2159 done,compress is 11564326
+picture 21 start
+slice[0][0] is 244
+now slice is 244
+bytenum is 3511459
+time cost is 49.182
+slice[0][0] is 237
+now slice is 237
+bytenum is 3500366
+time cost is 49.151
+slice[0][0] is 229
+now slice is 229
+bytenum is 3525612
+time cost is 49.555
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.793
+picture 2159 done,compress is 10539662
+picture 22 start
+slice[0][0] is 35
+now slice is 35
+bytenum is 4090931
+time cost is 61.158
+slice[0][0] is 33
+now slice is 33
+bytenum is 4061757
+time cost is 60.602
+slice[0][0] is 20
+now slice is 20
+bytenum is 4066657
+time cost is 60.457
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.642
+picture 2159 done,compress is 12221571
+picture 23 start
+slice[0][0] is 205
+now slice is 205
+bytenum is 3576916
+time cost is 50.925
+slice[0][0] is 197
+now slice is 197
+bytenum is 3538481
+time cost is 50.178
+slice[0][0] is 186
+now slice is 186
+bytenum is 4178683
+time cost is 56.953
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.690
+picture 2159 done,compress is 11296305
+picture 24 start
+slice[0][0] is 183
+now slice is 183
+bytenum is 4505651
+time cost is 63.808
+slice[0][0] is 201
+now slice is 201
+bytenum is 4502519
+time cost is 63.436
+slice[0][0] is 203
+now slice is 203
+bytenum is 4517743
+time cost is 63.710
+slice[0][0] is 255
+now slice is 255
+bytenum is 2226
+time cost is 6.847
+picture 2159 done,compress is 13528139
+picture 25 start
+slice[0][0] is 20
+now slice is 20
+bytenum is 4667203
+time cost is 67.907
+slice[0][0] is 18
+now slice is 18
+bytenum is 4700435
+time cost is 68.362
+slice[0][0] is 5
+now slice is 5
+bytenum is 4816791
+time cost is 69.449
+slice[0][0] is 255
+now slice is 255
+bytenum is 2225
+time cost is 6.594
+picture 2159 done,compress is 14186654
+picture 26 start
+slice[0][0] is 67
+now slice is 67
+bytenum is 4614106
+time cost is 68.017
+slice[0][0] is 59
+now slice is 59
+bytenum is 4696725
+time cost is 68.954
+slice[0][0] is 40
+now slice is 40
+bytenum is 4710173
+time cost is 68.724
+slice[0][0] is 255
+now slice is 255
+bytenum is 2022
+time cost is 6.853
+picture 2159 done,compress is 14023026
+picture 27 start
+slice[0][0] is 108
+now slice is 108
+bytenum is 4709042
+time cost is 69.226
+slice[0][0] is 134
+now slice is 134
+bytenum is 4752222
+time cost is 69.560
+slice[0][0] is 125
+now slice is 125
+bytenum is 4779025
+time cost is 70.033
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.749
+picture 2159 done,compress is 14242035
+picture 28 start
+slice[0][0] is 225
+now slice is 225
+bytenum is 4552417
+time cost is 60.523
+slice[0][0] is 227
+now slice is 227
+bytenum is 4524706
+time cost is 59.456
+slice[0][0] is 224
+now slice is 224
+bytenum is 4564930
+time cost is 59.549
+slice[0][0] is 255
+now slice is 255
+bytenum is 1745
+time cost is 6.816
+picture 2159 done,compress is 13643798
+picture 29 start
+slice[0][0] is 147
+now slice is 147
+bytenum is 4515746
+time cost is 59.457
+slice[0][0] is 179
+now slice is 179
+bytenum is 4451429
+time cost is 57.860
+slice[0][0] is 190
+now slice is 190
+bytenum is 4487238
+time cost is 58.265
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.859
+picture 2159 done,compress is 13456159
+picture 30 start
+slice[0][0] is 8
+now slice is 8
+bytenum is 4089109
+time cost is 50.540
+slice[0][0] is 18
+now slice is 18
+bytenum is 4096346
+time cost is 50.565
+slice[0][0] is 19
+now slice is 19
+bytenum is 4116563
+time cost is 50.882
+slice[0][0] is 255
+now slice is 255
+bytenum is 1745
+time cost is 6.683
+picture 2159 done,compress is 12303763
+picture 31 start
+slice[0][0] is 31
+now slice is 31
+bytenum is 4617592
+time cost is 64.376
+slice[0][0] is 42
+now slice is 42
+bytenum is 4592039
+time cost is 63.620
+slice[0][0] is 2
+now slice is 2
+bytenum is 4593009
+time cost is 63.876
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.762
+picture 2159 done,compress is 13804386
+picture 32 start
+slice[0][0] is 91
+now slice is 91
+bytenum is 4841112
+time cost is 69.196
+slice[0][0] is 92
+now slice is 92
+bytenum is 4879605
+time cost is 69.397
+slice[0][0] is 76
+now slice is 76
+bytenum is 4870157
+time cost is 69.362
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.694
+picture 2159 done,compress is 14592620
+picture 33 start
+slice[0][0] is 17
+now slice is 17
+bytenum is 4740986
+time cost is 66.233
+slice[0][0] is 89
+now slice is 89
+bytenum is 4719667
+time cost is 65.594
+slice[0][0] is 114
+now slice is 114
+bytenum is 4726698
+time cost is 65.825
+slice[0][0] is 255
+now slice is 255
+bytenum is 1745
+time cost is 6.645
+picture 2159 done,compress is 14189096
+picture 34 start
+slice[0][0] is 196
+now slice is 196
+bytenum is 4291962
+time cost is 59.920
+slice[0][0] is 234
+now slice is 234
+bytenum is 4277206
+time cost is 59.543
+slice[0][0] is 235
+now slice is 235
+bytenum is 4252804
+time cost is 59.264
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.738
+picture 2159 done,compress is 12823718
+picture 35 start
+slice[0][0] is 47
+now slice is 47
+bytenum is 5136216
+time cost is 74.979
+slice[0][0] is 35
+now slice is 35
+bytenum is 5149221
+time cost is 74.968
+slice[0][0] is 23
+now slice is 23
+bytenum is 5139440
+time cost is 74.863
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.742
+picture 2159 done,compress is 15426623
+picture 36 start
+slice[0][0] is 21
+now slice is 21
+bytenum is 4921199
+time cost is 70.945
+slice[0][0] is 51
+now slice is 51
+bytenum is 4938935
+time cost is 71.266
+slice[0][0] is 25
+now slice is 25
+bytenum is 4927551
+time cost is 71.070
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.581
+picture 2159 done,compress is 14789431
+picture 37 start
+slice[0][0] is 62
+now slice is 62
+bytenum is 4943062
+time cost is 70.212
+slice[0][0] is 34
+now slice is 34
+bytenum is 4982818
+time cost is 70.319
+slice[0][0] is 13
+now slice is 13
+bytenum is 4971996
+time cost is 70.108
+slice[0][0] is 255
+now slice is 255
+bytenum is 1745
+time cost is 6.734
+picture 2159 done,compress is 14899621
+picture 38 start
+slice[0][0] is 36
+now slice is 36
+bytenum is 5025146
+time cost is 68.277
+slice[0][0] is 136
+now slice is 136
+bytenum is 4977799
+time cost is 67.054
+slice[0][0] is 198
+now slice is 198
+bytenum is 4924476
+time cost is 66.382
+slice[0][0] is 255
+now slice is 255
+bytenum is 1745
+time cost is 6.780
+picture 2159 done,compress is 14929166
+picture 39 start
+slice[0][0] is 22
+now slice is 22
+bytenum is 5095631
+time cost is 74.226
+slice[0][0] is 40
+now slice is 40
+bytenum is 5124022
+time cost is 74.487
+slice[0][0] is 42
+now slice is 42
+bytenum is 5110595
+time cost is 74.458
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.756
+picture 2159 done,compress is 15331994
+picture 40 start
+slice[0][0] is 136
+now slice is 136
+bytenum is 5667022
+time cost is 81.602
+slice[0][0] is 197
+now slice is 197
+bytenum is 5652491
+time cost is 81.500
+slice[0][0] is 228
+now slice is 228
+bytenum is 5639032
+time cost is 80.977
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.631
+picture 2159 done,compress is 16960291
+picture 41 start
+slice[0][0] is 37
+now slice is 37
+bytenum is 5707995
+time cost is 83.465
+slice[0][0] is 40
+now slice is 40
+bytenum is 5720565
+time cost is 83.984
+slice[0][0] is 29
+now slice is 29
+bytenum is 5668085
+time cost is 83.157
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.801
+picture 2159 done,compress is 17098391
+picture 42 start
+slice[0][0] is 219
+now slice is 219
+bytenum is 4904004
+time cost is 71.309
+slice[0][0] is 232
+now slice is 232
+bytenum is 4968147
+time cost is 71.577
+slice[0][0] is 225
+now slice is 225
+bytenum is 4945737
+time cost is 71.206
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.809
+picture 2159 done,compress is 14819634
+picture 43 start
+slice[0][0] is 22
+now slice is 22
+bytenum is 4733823
+time cost is 67.838
+slice[0][0] is 12
+now slice is 12
+bytenum is 4740752
+time cost is 67.986
+slice[0][0] is 3
+now slice is 3
+bytenum is 4741420
+time cost is 67.847
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.737
+picture 2159 done,compress is 14217741
+picture 44 start
+slice[0][0] is 238
+now slice is 238
+bytenum is 4836153
+time cost is 70.218
+slice[0][0] is 242
+now slice is 242
+bytenum is 4853700
+time cost is 70.086
+slice[0][0] is 243
+now slice is 243
+bytenum is 4861149
+time cost is 70.125
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.735
+picture 2159 done,compress is 14552748
+picture 45 start
+slice[0][0] is 221
+now slice is 221
+bytenum is 5062867
+time cost is 73.154
+slice[0][0] is 224
+now slice is 224
+bytenum is 5086121
+time cost is 73.514
+slice[0][0] is 197
+now slice is 197
+bytenum is 5027126
+time cost is 72.884
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.758
+picture 2159 done,compress is 15177860
+picture 46 start
+slice[0][0] is 124
+now slice is 124
+bytenum is 5018250
+time cost is 72.888
+slice[0][0] is 130
+now slice is 130
+bytenum is 5022770
+time cost is 72.487
+slice[0][0] is 66
+now slice is 66
+bytenum is 5015506
+time cost is 72.215
+slice[0][0] is 255
+now slice is 255
+bytenum is 1746
+time cost is 6.721
+picture 2159 done,compress is 15058272
+[11640103, 11805861, 11704648, 12092188, 10634185, 10904303, 10507864, 10770735, 10188242, 11044157, 11362696, 9930410, 7730441, 7273523, 7719755, 9331588, 10933179, 9394458, 9562083, 10948189, 11564326, 10539662, 12221571, 11296305, 13528139, 14186654, 14023026, 14242035, 13643798, 13456159, 12303763, 13804386, 14592620, 14189096, 12823718, 15426623, 14789431, 14899621, 14929166, 15331994, 16960291, 17098391, 14819634, 14217741, 14552748, 15177860, 15058272]
